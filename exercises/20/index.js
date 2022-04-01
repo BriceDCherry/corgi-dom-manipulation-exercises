@@ -1,2 +1,3 @@
-const img = document.querySelector("img");
+const img = document.querySelector("[src='corgi.jpg']");
+console.log(img)
 
